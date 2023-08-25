@@ -610,7 +610,7 @@ a.totop-link {
    ========================================================================== */
 
 .about {
-    background: url(http://placehold.it/804x1080/000) no-repeat 100% 0 scroll #000;
+    background: url(/HTML/images/img1.jpeg) no-repeat 100% 0 scroll #000;
     background-size: contain;
 }
 .about .inner {
