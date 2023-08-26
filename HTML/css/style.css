@@ -566,9 +566,9 @@ a.totop-link {
 }
 .introduction img {
     z-index: -1;
-    height: auto;
-    width: 100%;
-    float: left;
+    height: 100%;
+    width: 58%;
+    float: right;
 }
 .introduction .owl-carousel {
     height: 100%;
@@ -611,7 +611,8 @@ a.totop-link {
 
 .about {
     background: url(/HTML/images/img1.jpeg) no-repeat 100% 0 scroll #000;
-    background-size: contain;
+    /* background-size: contain; */
+    background-size: 43% 640px;
 }
 .about .inner {
     width: 50%
