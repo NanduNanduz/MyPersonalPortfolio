@@ -598,9 +598,9 @@ a.totop-link {
 }
 .introduction img {
   z-index: -1;
-  height: 96%;
-  width: 58%;
-  float: right;
+  height: auto;
+  width: 100%;
+  float:right;
 }
 .introduction .owl-carousel {
   height: 100%;
@@ -617,7 +617,7 @@ a.totop-link {
 }
 .introduction h2 {
   border: none;
-  color: #aeaeae;
+  color: #0a0a0a;
   text-transform: uppercase;
   line-height: 50px;
   padding-bottom: 0;
@@ -630,9 +630,9 @@ a.totop-link {
   z-index: 2;
 }
 .introduction span.title {
-  border-bottom: 1px solid #7a7a7a;
-  border-top: 1px solid #7a7a7a;
-  color: #aeaeae;
+  border-bottom: 1px solid #030303;
+  border-top: 1px solid #050505;
+  color: #0c0c0c;
   padding: 15px 0;
   letter-spacing: 1px;
   text-transform: uppercase;
