@@ -643,9 +643,9 @@ a.totop-link {
    ========================================================================== */
 
 .about {
-  background: url(/images/img1.jpeg) no-repeat 100% 0 scroll #000;
-  /* background-size: contain; */
-  background-size: 43% 640px;
+  background: url(/images/newaboutimg.jpg) no-repeat 100% 0 scroll #000;
+  background-size: contain;
+  /* background-size: 43% 640px; */
 }
 .about .inner {
   width: 50%;
@@ -660,8 +660,8 @@ a.totop-link {
   width: 100%;
 }
 .about-con ul {
-  margin: 0;
-  padding: 0;
+  margin: 0px;
+  padding:  0 45px 0 0px;;
   list-style: none;
 }
 .about-con ul li {
